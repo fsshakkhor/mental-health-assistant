@@ -16,7 +16,7 @@ import Diagnosis from './diagnosis-frontend/diagnosis';
 function App() {
   return(
     <div>
-      <Chatbot/> 
+      <MyBot/> 
     </div>
   )
 }
